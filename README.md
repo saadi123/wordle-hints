@@ -1,2 +1,2 @@
 # wordle-hints
-Hints, Clues and Answer to the Daily NY Times Wordle
+<h1>Hints, Clues and Answer to the Daily NY Times Wordle & other Similar Puzzles</h1>
