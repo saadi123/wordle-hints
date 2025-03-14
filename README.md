@@ -24,4 +24,10 @@
     <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1144-march-10-2025/">Daily Waffle Game 1144 Answer</a></li>
     <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1143-march-09-2025/">Daily Waffle Game 1143 Answer</a></li>
   </ol>
+  <ol><h2>Daily NY Times Connections Hints & Answers</h2>
+    <li><a href="https://wordleofthe.day/todays-nyt-connections-642-hints-clues-answers-march-14-2025/)">Daily NY Times Connections 642 - Hints, Clues & Answers</a></li>
+    <li><a href="https://wordleofthe.day/todays-nyt-connections-641-hints-clues-answers-march-13-2025/)">Daily NY Times Connections 641 - Hints, Clues & Answers</a></li>
+    <li></li>
+  </ol>
+  
 </p>
