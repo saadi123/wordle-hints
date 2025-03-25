@@ -10,8 +10,11 @@
 <h1>Hints, Clues and Answer to the Daily NY Times Wordle & other Similar Puzzles</h1>
 <p>
   <ol><h2>Wordle Hints, Clues and Answer</h2>
-    <li><a href="https://wordleofthe.day/what-is-todays-nyt-wordle-1372-answer-march-22-2025-hints-clues/">Hints, Clues and Answer to today's NY Times Wordle 1372 - Friday, March 22, 2025</a></li>
-    <li><a href="https://wordleofthe.day/what-is-todays-nyt-wordle-1371-answer-march-21-2025-hints-clues/">Hints, Clues and Answer to today's NY Times Wordle 1371 - Thursday, March 21, 2025</a></li>
+    <li><a href="https://wordleofthe.day/what-is-todays-nyt-wordle-1375-answer-march-25-2025-hints-clues/">Hints, Clues and Answer to today's NY Times Wordle 1375 - Tuesday, March 25, 2025</a></li>
+    <li><a href="https://wordleofthe.day/what-is-todays-nyt-wordle-1374-answer-march-24-2025-hints-clues/">Hints, Clues and Answer to today's NY Times Wordle 1374 - Monday, March 24, 2025</a></li>
+    <li><a href="https://wordleofthe.day/what-is-todays-nyt-wordle-1373-answer-march-23-2025-hints-clues/">Hints, Clues and Answer to today's NY Times Wordle 1373 - Sunday, March 23, 2025</a></li>
+    <li><a href="https://wordleofthe.day/what-is-todays-nyt-wordle-1372-answer-march-22-2025-hints-clues/">Hints, Clues and Answer to today's NY Times Wordle 1372 - Saturday, March 22, 2025</a></li>
+    <li><a href="https://wordleofthe.day/what-is-todays-nyt-wordle-1371-answer-march-21-2025-hints-clues/">Hints, Clues and Answer to today's NY Times Wordle 1371 - Friday, March 21, 2025</a></li>
     <li><a href="https://wordleofthe.day/what-is-todays-nyt-wordle-1370-answer-march-20-2025-hints-clues/">Hints, Clues and Answer to today's NY Times Wordle 1370 - Thursday, March 20, 2025</a></li>
     <li><a href="https://wordleofthe.day/what-is-todays-nyt-wordle-1369-answer-march-19-2025-hints-clues/">Hints, Clues and Answer to today's NY Times Wordle 1369 - Wednesday, March 19, 2025</a></li>
     <li><a href="https://wordleofthe.day/what-is-todays-nyt-wordle-1368-answer-march-18-2025-hints-clues/">Hints, Clues and Answer to today's NY Times Wordle 1368 - Tuesday, March 18, 2025</a></li>
@@ -25,6 +28,9 @@
     <li><a href="https://wordleofthe.day/what-is-todays-nyt-wordle-1360-answer-march-10-2025-hints-clues/">Hints, Clues and Answer to today's NY Times Wordle 1360 - Monday, March 10, 2025</a></li>
   </ol>
   <ol><h2>Waffle Answers</h2>
+    <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1159-march-25-2025/">Daily Waffle Game 1159 Answer</a></li>
+    <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1158-march-24-2025/">Daily Waffle Game 1158 Answer</a></li>
+    <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1157-march-23-2025/">Daily Waffle Game 1157 Answer</a></li>
     <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1156-march-22-2025/">Daily Waffle Game 1156 Answer</a></li>
     <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1155-march-21-2025/">Daily Waffle Game 1155 Answer</a></li>
     <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1154-march-20-2025/">Daily Waffle Game 1154 Answer</a></li>
@@ -41,6 +47,9 @@
     <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1143-march-09-2025/">Daily Waffle Game 1143 Answer</a></li>
   </ol>
   <ol><h2>Daily NY Times Connections Hints & Answers</h2>
+    <li><a href="https://wordleofthe.day/todays-nyt-connections-653-hints-clues-answers-march-25-2025/)">Daily NY Times Connections 653 - Hints, Clues & Answers</a></li>
+    <li><a href="https://wordleofthe.day/todays-nyt-connections-652-hints-clues-answers-march-24-2025/)">Daily NY Times Connections 652 - Hints, Clues & Answers</a></li>
+    <li><a href="https://wordleofthe.day/todays-nyt-connections-651-hints-clues-answers-march-23-2025/)">Daily NY Times Connections 651 - Hints, Clues & Answers</a></li>
     <li><a href="https://wordleofthe.day/todays-nyt-connections-650-hints-clues-answers-march-22-2025/)">Daily NY Times Connections 650 - Hints, Clues & Answers</a></li>
     <li><a href="https://wordleofthe.day/todays-nyt-connections-649-hints-clues-answers-march-21-2025/)">Daily NY Times Connections 649 - Hints, Clues & Answers</a></li>
     <li><a href="https://wordleofthe.day/todays-nyt-connections-648-hints-clues-answers-march-20-2025/)">Daily NY Times Connections 648 - Hints, Clues & Answers</a></li>
