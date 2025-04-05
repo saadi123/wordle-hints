@@ -69,7 +69,9 @@
     <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1143-march-09-2025/">Daily Waffle Game 1143 Answer</a></li>
   </ol>
   <ol><h2>Daily NY Times Connections Hints & Answers</h2>
-    
+    <li><a href="https://wordleofthe.day/todays-ny-times-connections-664-hints-clues-answers-april-05-2025/)">Daily NY Times Connections 664 - Hints, Clues & Answers</a></li>
+    <li><a href="https://wordleofthe.day/todays-ny-times-connections-663-hints-clues-answers-april-04-2025/)">Daily NY Times Connections 663 - Hints, Clues & Answers</a></li>
+    <li><a href="https://wordleofthe.day/todays-ny-times-connections-662-hints-clues-answers-april-03-2025/)">Daily NY Times Connections 662 - Hints, Clues & Answers</a></li>
     <li><a href="https://wordleofthe.day/todays-ny-times-connections-661-hints-clues-answers-april-02-2025/)">Daily NY Times Connections 661 - Hints, Clues & Answers</a></li>
     <li><a href="https://wordleofthe.day/todays-ny-times-connections-660-hints-clues-answers-april-01-2025/)">Daily NY Times Connections 660 - Hints, Clues & Answers</a></li>
     <li><a href="https://wordleofthe.day/todays-ny-times-connections-659-hints-clues-answers-march-31-2025/)">Daily NY Times Connections 659 - Hints, Clues & Answers</a></li>
