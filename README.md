@@ -10,6 +10,9 @@
 <h1>Hints, Clues and Answer to the Daily NY Times Wordle & other Similar Puzzles</h1>
 <p>
   <ol><h2>Wordle Hints, Clues and Answer</h2>
+    <li><a href="https://wordleofthe.day/what-is-todays-ny-times-wordle-1386-answer-april-05-2025-hints-clues/"></a>Hints, Clues and Answer to today's NY Times Wordle 1386 - Saturday, April 05, 2025</li>
+    <li><a href="https://wordleofthe.day/what-is-todays-ny-times-wordle-1385-answer-april-04-2025-hints-clues/"></a>Hints, Clues and Answer to today's NY Times Wordle 1385 - Friday, April 04, 2025</li>
+    <li><a href="https://wordleofthe.day/what-is-todays-ny-times-wordle-1384-answer-april-03-2025-hints-clues/"></a>Hints, Clues and Answer to today's NY Times Wordle 1384 - Thursday, April 03, 2025</li>
     <li><a href="https://wordleofthe.day/what-is-todays-nyt-wordle-1383-answer-april-02-2025-hints-clues/">Hints, Clues and Answer to today's NY Times Wordle 1383 - Wednesday, April 02, 2025</a></li>
     <li><a href="https://wordleofthe.day/what-is-todays-nyt-wordle-1382-answer-april-01-2025-hints-clues/">Hints, Clues and Answer to today's NY Times Wordle 1382 - Tuesday, April 01, 2025</a></li>
     <li><a href="https://wordleofthe.day/what-is-todays-nyt-wordle-1381-answer-march-31-2025-hints-clues/">Hints, Clues and Answer to today's NY Times Wordle 1381 - Monday, March 31, 2025</a></li>
@@ -36,6 +39,9 @@
     <li><a href="https://wordleofthe.day/what-is-todays-nyt-wordle-1360-answer-march-10-2025-hints-clues/">Hints, Clues and Answer to today's NY Times Wordle 1360 - Monday, March 10, 2025</a></li>
   </ol>
   <ol><h2>Waffle Answers</h2>
+    <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1170-april-05-2025/">Daily Waffle Game 1170 Answers</a></li>
+    <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1169-april-04-2025/">Daily Waffle Game 1169 Answers</a></li>
+    <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1168-april-03-2025/">Daily Waffle Game 1168 Answers</a></li>
     <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1167-april-02-2025/">Daily Waffle Game 1167 Answers</a></li>
     <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1166-april-01-2025/">Daily Waffle Game 1166 Answer</a></li>
     <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1165-march-31-2025/">Daily Waffle Game 1165 Answer</a></li>
