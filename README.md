@@ -10,12 +10,12 @@
 <h1>Hints, Clues and Answer to the Daily NY Times Wordle & other Similar Puzzles</h1>
 <p>
   <ol><h2>Wordle Hints, Clues and Answer</h2>
-    <li><a href="https://wordleofthe.day/ny-times-wordle-1417-tuesday-may-6-2025-todays-hints-clues-answer/">Hints, Clues and Answer to today's NY Times Wordle 1417 - Tuesday, May 6, 2025</a></li>
-<li><a href="https://wordleofthe.day/ny-times-wordle-1416-monday-may-5-2025-todays-hints-clues-answer/">Hints, Clues and Answer to today's NY Times Wordle 1416 - Monday, May 5, 2025</a></li>
-<li><a href="https://wordleofthe.day/ny-times-wordle-1415-sunday-may-4-2025-todays-hints-clues-answer/">Hints, Clues and Answer to today's NY Times Wordle 1415 - Sunday, May 4, 2025</a></li>
-<li><a href="https://wordleofthe.day/ny-times-wordle-1414-saturday-may-3-2025-todays-hints-clues-answer/">Hints, Clues and Answer to today's NY Times Wordle 1414 - Saturday, May 3, 2025</a></li>
-<li><a href="https://wordleofthe.day/ny-times-wordle-1413-friday-may-2-2025-todays-hints-clues-answer/">Hints, Clues and Answer to today's NY Times Wordle 1413 - Friday, May 2, 2025</a></li>
-<li><a href="https://wordleofthe.day/ny-times-wordle-1412-thursday-may-1-2025-todays-hints-clues-answer/">Hints, Clues and Answer to today's NY Times Wordle 1412 - Thursday, May 1, 2025</a></li>
+   <li><a href="https://wordleofthe.day/ny-times-wordle-1417-tuesday-may-06-2025-todays-hints-clues-answer/">Hints, Clues and Answer to today's NY Times Wordle 1417 - Tuesday, May 06, 2025</a></li>
+<li><a href="https://wordleofthe.day/ny-times-wordle-1416-monday-may-05-2025-todays-hints-clues-answer/">Hints, Clues and Answer to today's NY Times Wordle 1416 - Monday, May 05, 2025</a></li>
+<li><a href="https://wordleofthe.day/ny-times-wordle-1415-sunday-may-04-2025-todays-hints-clues-answer/">Hints, Clues and Answer to today's NY Times Wordle 1415 - Sunday, May 04, 2025</a></li>
+<li><a href="https://wordleofthe.day/ny-times-wordle-1414-saturday-may-03-2025-todays-hints-clues-answer/">Hints, Clues and Answer to today's NY Times Wordle 1414 - Saturday, May 03, 2025</a></li>
+<li><a href="https://wordleofthe.day/ny-times-wordle-1413-friday-may-02-2025-todays-hints-clues-answer/">Hints, Clues and Answer to today's NY Times Wordle 1413 - Friday, May 02, 2025</a></li>
+<li><a href="https://wordleofthe.day/ny-times-wordle-1412-thursday-may-01-2025-todays-hints-clues-answer/">Hints, Clues and Answer to today's NY Times Wordle 1412 - Thursday, May 01, 2025</a></li>
 <li><a href="https://wordleofthe.day/ny-times-wordle-1411-wednesday-april-30-2025-todays-hints-clues-answer/">Hints, Clues and Answer to today's NY Times Wordle 1411 - Wednesday, April 30, 2025</a></li>
 <li><a href="https://wordleofthe.day/ny-times-wordle-1410-tuesday-april-29-2025-todays-hints-clues-answer/">Hints, Clues and Answer to today's NY Times Wordle 1410 - Tuesday, April 29, 2025</a></li>
 <li><a href="https://wordleofthe.day/ny-times-wordle-1409-monday-april-28-2025-todays-hints-clues-answer/">Hints, Clues and Answer to today's NY Times Wordle 1409 - Monday, April 28, 2025</a></li>
