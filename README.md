@@ -70,12 +70,12 @@
     <li><a href="https://wordleofthe.day/what-is-todays-nyt-wordle-1360-answer-march-10-2025-hints-clues/">Hints, Clues and Answer to today's NY Times Wordle 1360 - Monday, March 10, 2025</a></li>
   </ol>
   <ol><h2>Waffle Answers</h2>
-    <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1201-may-6-2025/">Daily Waffle Game 1201 Answers</a></li>
-<li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1200-may-5-2025/">Daily Waffle Game 1200 Answers</a></li>
-<li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1199-may-4-2025/">Daily Waffle Game 1199 Answers</a></li>
-<li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1198-may-3-2025/">Daily Waffle Game 1198 Answers</a></li>
-<li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1197-may-2-2025/">Daily Waffle Game 1197 Answers</a></li>
-<li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1196-may-1-2025/">Daily Waffle Game 1196 Answers</a></li>
+    <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1201-may-06-2025/">Daily Waffle Game 1201 Answers</a></li>
+<li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1200-may-05-2025/">Daily Waffle Game 1200 Answers</a></li>
+<li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1199-may-04-2025/">Daily Waffle Game 1199 Answers</a></li>
+<li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1198-may-03-2025/">Daily Waffle Game 1198 Answers</a></li>
+<li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1197-may-02-2025/">Daily Waffle Game 1197 Answers</a></li>
+<li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1196-may-01-2025/">Daily Waffle Game 1196 Answers</a></li>
 <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1195-april-30-2025/">Daily Waffle Game 1195 Answers</a></li>
 <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1194-april-29-2025/">Daily Waffle Game 1194 Answers</a></li>
 <li><a href="https://wordleofthe.day/daily-waffle-game-todays-answer-1193-april-28-2025/">Daily Waffle Game 1193 Answers</a></li>
